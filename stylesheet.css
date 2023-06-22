@@ -1,0 +1,198 @@
+html, body {
+   height: 100% !important;
+}
+.prototype-log-in,
+.prototype-log-in * {
+  box-sizing: border-box;
+}
+.prototype-log-in {
+  background: #e5e7eb;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.frame-15651 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px;
+  padding: 81px 47px 81px 47px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.horizontal {
+  background: var(--ui-base-layer-03, #bdc2cc);
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.log-in {
+  color: #000000;
+  text-align: left;
+  font: 700 36px/48px "Inter", sans-serif;
+  position: relative;
+}
+.frame-16350 {
+  flex-shrink: 0;
+  width: 358px;
+  height: 48px;
+  position: relative;
+}
+.text-input {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 66px;
+  position: relative;
+}
+.content-block-caption {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label-container {
+  padding: 0px 2px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.label {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Manrope", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.field {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #314054;
+  border-width: 1px;
+  padding: 2px 5px 2px 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.input {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.placeholder {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Manrope", sans-serif;
+  position: relative;
+  flex: 1;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 0px;
+}
+
+
+input:focus-visible {
+    outline-offset: 0px;
+}
+:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+.button {
+  background: #0071cc;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 404px;
+  position: relative;
+  overflow: hidden;
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+  cursor: pointer;
+}
+.label2 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.register-for-access {
+  color: #015d9f;
+  text-align: center;
+  font: 400 18px "Inter", sans-serif;
+  position: relative;
+}
+.frame-16351 {
+  flex: 1;
+  width: 358px;
+  position: relative;
+}
+.frame-16349 {
+  flex-shrink: 0;
+  width: 347px;
+  height: 24px;
+  position: relative;
+}
+._2023-client-portal-an-ion-markets-product {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
