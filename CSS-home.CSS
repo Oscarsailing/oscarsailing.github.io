@@ -1,0 +1,1612 @@
+html, body {
+    height: 100% !important;
+    width: 100% !important;
+ }
+
+.home-pg-first-time-user-onboarding,
+.home-pg-first-time-user-onboarding * {
+  box-sizing: border-box;
+}
+.home-pg-first-time-user-onboarding {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  position: relative;
+}
+.frame-16509 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.top-header {
+  background: var(--navy-navy-1, #e5e7eb);
+  padding: 10px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+.frame-8965 {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 480px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  height: 42px;
+  position: relative;
+}
+.notification-icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 44px;
+  position: relative;
+}
+.frame-16421 {
+  width: 32px;
+  height: 34px;
+  position: absolute;
+  left: 4px;
+  top: 5px;
+}
+.notification-filled {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.group-14953 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: var(--core-ion-red, #d75641);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  left: 18px;
+  top: 2px;
+}
+._1 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 8px "Inter", sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 2px;
+  width: 14px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.user2 {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.icon {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.line {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+  height: 1px !important;
+}
+.navigation {
+  background: var(--navy-navy-2, #ccd0d7);
+  padding: 10px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+.frame-8964 {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 450px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.guides {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.training {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.community {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.fa-qs {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.frame-72 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  position: relative;
+}
+.bookmarks {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.my-requests {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.submit-a-request {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label {
+  color: var(--black, #000000);
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.line2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.search {
+  background: var(--navy-navy-2, #ccd0d7);
+  padding: 30px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+.how-can-we-help-you {
+  color: var(--black, #000000);
+  text-align: center;
+  font: 700 36px/32px "Inter", sans-serif;
+  position: relative;
+}
+.field {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 16px 8px 16px;
+  flex-shrink: 0;
+  width: 715px;
+  height: 61px;
+  position: relative;
+  overflow: hidden;
+}
+.placeholder {
+  color: var(--light-text-text-secondary, #74747c);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: absolute;
+  right: 16px;
+  left: 40px;
+  top: calc(50% - 11.5px);
+  height: 24px;
+}
+.icon2 {
+  position: absolute;
+  left: 8px;
+  top: calc(50% - 11.5px);
+  overflow: visible;
+}
+.frame-8832 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.pill {
+  background: var(--black, #000000);
+  border-radius: 16px;
+  padding: 6px 12px 6px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label2 {
+  color: var(--dark-text-text-primary, #ffffff);
+  text-align: center;
+  font: var(--caps, 600 14px/20px "Inter", sans-serif);
+  text-transform: uppercase;
+  position: relative;
+}
+.line3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-16507 {
+  padding: 64px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.intro {
+  flex-shrink: 0;
+   width: 100%;
+  height: 360px;
+  position: relative;
+}
+.video-placeholder {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 747.45px;
+  height: 360px;
+  position: absolute;
+  left: 692.55px;
+  top: 0px;
+}
+.icon3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.work-with-our-api-to-leverage-your-business-full-potential {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 99px;
+  width: 634.16px;
+}
+.velit-aliquet-ultricies-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravida {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 183px;
+  width: 600.29px;
+  height: 78px;
+}
+.benefits {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+   width: 100%;
+  position: relative;
+}
+.frame-16455 {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.placeholder2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.placeholder3 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.benefits2 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.benefits3 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+}
+.frame-16454 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-16452 {
+  flex-shrink: 0;
+  width: 320px;
+  height: 391px;
+  position: relative;
+}
+.benefits-single-description {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.check-circle-filled {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-16451 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.benefit-title {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.velit-aliquet-ultricies-nam-donec-sagittis-facilisis-dictum-quis-gravidaes {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.benefits-single-description2 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.check-circle-filled3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.benefits-single-description3 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  position: absolute;
+  left: 0px;
+  top: 200px;
+}
+.check-circle-filled5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.benefits-single-description4 {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 320px;
+  position: absolute;
+  left: 0px;
+  top: 300px;
+}
+.check-circle-filled7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-16453 {
+  flex-shrink: 0;
+  width: 320px;
+  height: 391px;
+  position: relative;
+}
+.check-circle-filled9 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.check-circle-filled11 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.check-circle-filled13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.check-circle-filled15 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ap-is {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+   width: 100%;
+  position: relative;
+}
+.frame-8976 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-8975 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.our-ap-is {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.subtitle-no-more-then-75-characters-that-will-resemble-this-length-12345678 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: 400 16px/16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.frame-8974 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-8973 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.api-card {
+  background: #232832;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  height: 140px;
+  position: relative;
+}
+.frame-8969 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.api-name-in-two-words {
+  color: var(--core-ion-white, #ffffff);
+  text-align: left;
+  font: 700 16px/24px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.description-in-no-more-then-two-line-so-it-does-not-get-trucated {
+  color: var(--core-ion-white, #ffffff);
+  text-align: left;
+  font: 300 14px/16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.frame-8970 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-8968 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.button2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.button3 {
+  background: var(--white, #ffffff);
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 5px 8px 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label3 {
+  color: var(--black, #000000);
+  text-align: center;
+  font: 500 12px/24px "Inter", sans-serif;
+  position: relative;
+}
+.button4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 88px;
+  height: 24px;
+  position: relative;
+}
+.frame-8972 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.token-generator {
+  background: #ccd0d7;
+  padding: 54px 100px 54px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-8977 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-16443 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.generate-your-api-token {
+  color: var(--black, #000000);
+  text-align: center;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.subtitle-no-more-then-75-characters-length-that-will-resemble-this-12345678-and-can-go-on-two-lines {
+  color: var(--black, #000000);
+  text-align: center;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.frame-16442 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.button5 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button6 {
+  background: #000000;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.label4 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+  width: 148px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.training-center {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+   width: 100%;
+  position: relative;
+}
+.frame-8971 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 327px;
+  height: 270px;
+  position: relative;
+}
+.training-center2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.velit-aliquet-ultricies-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravida2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.button7 {
+  background: #000000;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 10px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.label5 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.frame-8840 {
+  display: flex;
+  flex-direction: row;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.placeholder4 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.placeholder5 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.placeholder6 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.placeholder7 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.fa-qs-support-page {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+   width: 100%;
+  position: relative;
+}
+.frame-16368 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 327px;
+  position: relative;
+}
+.frame-16367 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frequently-asked-questions-fa-qs {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.velit-aliquet-ultricies-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravida3 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+  height: 127px;
+}
+.button8 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 118px;
+  height: 40px;
+  position: relative;
+}
+.button9 {
+  background: #000000;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 124px;
+  position: relative;
+  overflow: hidden;
+}
+.label6 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-16366 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.fa-qs-question {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.placeholder8 {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 18px 14px 18px 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-16456 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.question {
+  color: #000000;
+  text-align: left;
+  font: 700 16px/24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.placeholder9 {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 12px 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-164562 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.question2 {
+  color: #000000;
+  text-align: left;
+  font: 700 16px/24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.answer {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/24px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.question3 {
+  color: #000000;
+  text-align: left;
+  font: 700 16px/24px "Inter", sans-serif;
+  position: relative;
+  width: 418px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.community-center {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+   width: 100%;
+  height: 345px;
+  position: relative;
+}
+.frame-16358 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-16363 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  width: 327px;
+  position: relative;
+}
+.community-center2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--heading-2, 700 24px/32px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.velit-aliquet-ultricies-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravidaes-nam-donec-sagittis-facilisis-dictum-quis-gravida4 {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.button10 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.frame-16361 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-16359 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.community-post-card-white {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  padding: 0px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.placeholder10 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.frame-16364 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.topic-text-can-be-on-2-lines-before-being-cut-off {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.frame-8962 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.by-author {
+  color: var(--black, #000000);
+  text-align: left;
+  font: 300 16px/24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.by-author-span {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+}
+.by-author-span2 {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.remove {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.role {
+  color: var(--black, #000000);
+  text-align: left;
+  font: 300 16px/24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.frame-8963 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.community-post-tag {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.icon8 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._12 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/24px "Inter", sans-serif;
+  position: relative;
+  width: 11px;
+  height: 20px;
+}
+.community-post-tag2 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.icon9 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.community-post-tag3 {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  position: relative;
+}
+.icon10 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.placeholder11 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.by-author-span3 {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+}
+.by-author-span4 {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.remove3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon11 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon12 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.placeholder12 {
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: visible;
+}
+.by-author-span5 {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+}
+.by-author-span6 {
+  color: var(--black, #000000);
+  font: 300 16px/24px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.remove5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon14 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon15 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon16 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-16508 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.additional-support-footer {
+  background: var(--navy-navy-2, #ccd0d7);
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 200px;
+  position: relative;
+}
+.frame-8961 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.can-t-find-what-you-re-looking-for {
+  color: var(--black, #000000);
+  text-align: center;
+  font: 700 24px/32px "Inter", sans-serif;
+  position: relative;
+}
+.we-are-here-to-help-you-send-us-a-message-and-we-will-get-back-to-you-as-soon-as-possible {
+  color: var(--black, #000000);
+  text-align: center;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.frame-8844 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button11 {
+  background: var(--black, #000000);
+  border-radius: 8px;
+  padding: 8px 10px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label7 {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.icon17 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.button12 {
+  background: var(--white, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  padding: 8px 10px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label8 {
+  color: var(--light-text-text-primary, #232832);
+  text-align: center;
+  font: var(--button, 500 16px/24px "Inter", sans-serif);
+  position: relative;
+}
+.icon18 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.footer {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.line12 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-8966 {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.fidessa {
+  color: var(--black, #000000);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  width: 59px;
+  height: 52px;
+}
+.frame-16538 {
+  background: #ffffff;
+  flex: 1;
+  height: 31px;
+  position: relative;
+  overflow: hidden;
+}
+.l-ink-1-link-2-link-3-link-4 {
+  color: var(--black, #000000);
+  text-align: right;
+  font: var(--body, 400 16px/24px "Inter", sans-serif);
+  position: relative;
+  width: 220px;
+  height: 52px;
+}
